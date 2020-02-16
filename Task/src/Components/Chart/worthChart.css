@@ -1,0 +1,13 @@
+#chartdiv {
+    width: 700px;
+    height:350px;
+    float: left;
+  }
+  
+  #exportdiv {
+    float: right;
+  }
+  
+  #exportdiv:hover .amcharts-export-menu {
+    opacity: 1;
+  }
